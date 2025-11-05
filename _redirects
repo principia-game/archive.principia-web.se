@@ -10,6 +10,8 @@
 /user/*    https://principia-web.se/archive/user/:splat    301
 /userlist  https://principia-web.se/archive/userlist       301
 
+/thumbs/* https://principia-web.se/archive/thumbs/:splat 301
+
 /internal/get_level     https://principia-web.se/internal/archive_level  302
 /internal/derive_level  https://principia-web.se/internal/archive_level  302
 /internal/edit_level    https://principia-web.se/internal/archive_level  302
